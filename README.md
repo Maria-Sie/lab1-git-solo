@@ -2,4 +2,3 @@
 To jest pierwszy utworzony plik
 Dodajemy druga line
 Trzecia linia jest dodawana
-TO JEST BŁĄD
