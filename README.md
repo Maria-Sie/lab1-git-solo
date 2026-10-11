@@ -1,4 +1,4 @@
-# Lab 1 - git zmiana
+# Projekt Alfa
 To jest pierwszy utworzony plik
 ## Autor Maria
 Dopisujemy linię
